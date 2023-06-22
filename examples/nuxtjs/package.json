@@ -13,7 +13,7 @@
     "styleguide:build": "vue-styleguidist build --config styleguide/styleguide.config.js"
   },
   "dependencies": {
-    "nuxt": "^2.3.4"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
