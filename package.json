@@ -63,7 +63,7 @@
     "loader-utils": "^1.1.0",
     "lodash": "^4.17.10",
     "lowercase-keys": "^1.0.1",
-    "markdown-to-jsx": "^6.6.8",
+    "markdown-to-jsx": "^7.4.0",
     "mini-html-webpack-plugin": "^0.2.3",
     "minimist": "^1.2.0",
     "ora": "^2.1.0",
@@ -78,9 +78,9 @@
     "style-loader": "^0.21.0",
     "to-ast": "^1.0.0",
     "uglifyjs-webpack-plugin": "1.2.7",
-    "vue-docgen-api": "^3.5.1",
+    "vue-docgen-api": "^4.30.0",
     "webpack-dev-server": "^3.1.14",
-    "webpack": "^4.28.4",
+    "webpack": "^5.0.0",
     "webpack-merge": "^4.0.0"
   },
   "peerDependencies": {
