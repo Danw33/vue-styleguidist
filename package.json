@@ -33,7 +33,7 @@
     "classnames": "^2.2.6",
     "clean-webpack-plugin": "^0.1.19",
     "clipboard-copy": "^2.0.0",
-    "codemirror": "^5.39.0",
+    "codemirror": "^6.0.0",
     "common-dir": "^2.0.2",
     "copy-webpack-plugin": "^4.5.2",
     "css-loader": "^0.28.11",
@@ -80,7 +80,7 @@
     "uglifyjs-webpack-plugin": "1.2.7",
     "vue-docgen-api": "^3.5.1",
     "webpack-dev-server": "^3.1.14",
-    "webpack": "^4.28.4",
+    "webpack": "^5.0.0",
     "webpack-merge": "^4.0.0"
   },
   "peerDependencies": {
